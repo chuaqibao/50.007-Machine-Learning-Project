@@ -2,6 +2,9 @@
 
 Developed by: Chua Qi Bao (1004494), Ng Peng Yu (1004269), Yap Swee En (1004340)
 
+## Project Brief & Requirements
+The project description can be found in Project.pdf
+
 ## How to Run the Code
 
 ### Requirements 
